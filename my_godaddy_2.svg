@@ -16,7 +16,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="my_godaddy.svg"
-   inkscape:export-filename="/home/elena/Документи/Documents/Работа/Designer/GoDaddy/my_godaddy.png"
+   inkscape:export-filename="./my_godaddy.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
@@ -326,7 +326,7 @@
        x="1.109375"
        y="1490.5399" />
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./logo.png"
+       sodipodi:absref="./logo.png"
        xlink:href="./logo.png"
        width="160"
        height="58.482761"
@@ -461,7 +461,7 @@
          y="1907.1102"
          style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#333333;fill-opacity:1;font-family:GT Walsheim Pro Trial;-inkscape-font-specification:GT Walsheim Pro Trial Bold">=</tspan></text>
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./hand_icons_green.png"
+       sodipodi:absref="./hand_icons_green.png"
        xlink:href="./hand_icons_green.png"
        width="160"
        height="158"
@@ -480,7 +480,7 @@
          x="241.05734"
          y="2000.5399">ДОМЕН</tspan></text>
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./pencil_icons_green.png"
+       sodipodi:absref="./pencil_icons_green.png"
        xlink:href="./pencil_icons_green.png"
        width="160"
        height="160"
@@ -559,7 +559,7 @@
            sodipodi:role="line">29,42 $</tspan></text>
     </g>
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./letter_icons_green.png"
+       sodipodi:absref="./letter_icons_green.png"
        xlink:href="./letter_icons_green.png"
        width="160"
        height="160"
@@ -1247,7 +1247,7 @@
          x="732.9574"
          y="2278.54">30 % ЗНИЖКИ</tspan></text>
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./phone_sprite_icons.png"
+       sodipodi:absref="./phone_sprite_icons.png"
        xlink:href="./phone_sprite_icons.png"
        width="420"
        height="419.125"
@@ -1288,7 +1288,7 @@
            y="1196.5636">ШУКАТИ ЗАРАЗ</tspan></text>
     </g>
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./phone_TEXT_sprite_icons.png"
+       sodipodi:absref="./phone_TEXT_sprite_icons.png"
        xlink:href="./phone_TEXT_sprite_icons.png"
        width="121.92987"
        height="200.00006"
@@ -1313,7 +1313,7 @@
          id="tspan4402"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:GT Walsheim Pro Trial;-inkscape-font-specification:GT Walsheim Pro Trial Bold">ПРЯМО ЗАРАЗ</tspan></text>
     <image
-       sodipodi:absref="/github/elenapogoda/design-5-godaddy/./img_bg.jpg"
+       sodipodi:absref="./img_bg.jpg"
        xlink:href="./img_bg.jpg"
        width="1360"
        height="576"
@@ -1439,7 +1439,7 @@
            id="tspan3243"
            sodipodi:role="line">ЧОМУ МИ? ЦЕ ПРОСТО.</tspan></text>
       <image
-         sodipodi:absref="/github/elenapogoda/design-5-godaddy/./ABOUT_us_1.png"
+         sodipodi:absref="./ABOUT_us_1.png"
          xlink:href="./ABOUT_us_1.png"
          y="3466.54"
          x="197.23438"
@@ -1447,7 +1447,7 @@
          height="174"
          width="175" />
       <image
-         sodipodi:absref="/github/elenapogoda/design-5-godaddy/./ABOUT_us_2.png"
+         sodipodi:absref="./ABOUT_us_2.png"
          xlink:href="./ABOUT_us_2.png"
          y="3467.54"
          x="456.48438"
@@ -1455,7 +1455,7 @@
          height="173"
          width="180" />
       <image
-         sodipodi:absref="/github/elenapogoda/design-5-godaddy/./ABOUT_us_3.png"
+         sodipodi:absref="./ABOUT_us_3.png"
          xlink:href="./ABOUT_us_3.png"
          y="3466.54"
          x="723.73438"
@@ -1463,7 +1463,7 @@
          height="175"
          width="177" />
       <image
-         sodipodi:absref="/github/elenapogoda/design-5-godaddy/./ABOUT_us_4.png"
+         sodipodi:absref="./ABOUT_us_4.png"
          xlink:href="./ABOUT_us_4.png"
          y="3466.54"
          x="991.98438"
